@@ -34,15 +34,16 @@
 
 ### 🛒 E-commerce Tools
 
-| Project | Intro |
-|---------|-------|
-| 跨境卖家利润计算器 | Temu 核价测算 / 首报策略 / TikTok 达人寄样 ROI 模型（即将开源，基于平台比价规则构建） |
+| Project | Intro | Stack |
+|---------|-------|-------|
+| [kuajing-scout](https://github.com/heySu/kuajing-scout) | 跨境选品侦察兵：商品池综合评分（趋势/利润/差异化/复购）+ 利润测算 + LLM 选品日报（无 Key 自动降级规则引擎） | Node.js 22（零依赖）· SQLite · LLM |
+| [kuajing-profit-calculator](https://github.com/heySu/kuajing-profit-calculator) | 跨境卖家利润计算器：Temu 核价测算 / 首报策略 / TikTok 达人寄样 ROI 模型 | 原生 JS · 零依赖 |
 
 ---
 
 ## 🧭 What I'm exploring
 
-- **AI Agent × 跨境电商**：选品监控 Agent、达人开发 Agent、跟价预警
+- **AI Agent × 跨境电商**：达人开发 Agent、跟价预警 Agent（选品监控已落地为 kuajing-scout）
 - **一个人 + AI 的产品工作流**：如何用 AI 把独立开发者的产能放大十倍
 
 ## 📫 Contact
