@@ -39,6 +39,12 @@
 | [kuajing-scout](https://github.com/heySu/kuajing-scout) | 跨境选品侦察兵：商品池综合评分（趋势/利润/差异化/复购）+ 利润测算 + LLM 选品日报（无 Key 自动降级规则引擎） | Node.js 22（零依赖）· SQLite · LLM |
 | [kuajing-profit-calculator](https://github.com/heySu/kuajing-profit-calculator) | 跨境卖家利润计算器：Temu 核价测算 / 首报策略 / TikTok 达人寄样 ROI 模型 | 原生 JS · 零依赖 |
 
+### 🎮 Playable
+
+| Project | Intro | Stack |
+|---------|-------|-------|
+| [sudoku-daily](https://github.com/heySu/sudoku-daily) | 数独 · 每日一局：每日挑战（日期种子全球同题）/ 闯关三星 / 闪电 5 分钟，笔记·撤销·提示、战绩卡导出、PWA 离线可玩 → [**在线试玩**](https://heysu.github.io/sudoku-daily/) | 原生 JS · Canvas · PWA · GitHub Pages |
+
 ---
 
 ## 🧭 What I'm exploring
